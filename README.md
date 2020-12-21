@@ -5,7 +5,7 @@
  *how to keep yourself in a growth mindse* 
 - Stop seeking approval
 - Cultivate a sense of purpose
-- Place effort before talent.
+- Place effort before talent
 :+1: :+1: :+1:
 
 ## I am Abdalrhman Albdahat and I am here to learn coding
