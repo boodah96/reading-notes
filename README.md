@@ -2,7 +2,7 @@
 ## when we talk about mindset we talk about exit from comfort zone and work hard to improve your mind
 **that mean no pain no gain**
 
- how to keep yourself in a growth mindse 
+ *how to keep yourself in a growth mindse* 
 - Stop seeking approval
 - Cultivate a sense of purpose
 - Place effort before talent.
