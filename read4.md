@@ -12,4 +12,4 @@ is, why they would come to your site, what information
 they want to find and when they are likely to return and talk about Wireframes allow you to organize the information that
 will need to go on each page.
 
-- Site navigation not only helps people find where they want to go, but also helps them understand what your site is about and how it is organized.
+- Site navigation not only helps people find where they want to go, but also helps them understand what your site is about and how it is organized
