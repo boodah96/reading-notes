@@ -1,6 +1,6 @@
 # Abdalrhman Albdahat 
 ### My name is Abdalrhman Albdahat, I am a Civil Engineer and I am here to learn coding
-## Table of content
+## Table of content:
 | Page | Link |
 |------------ | -------------|
 | Growth mindset | [Growth mindset](https://boodah96.github.io/reading-notes/) |
