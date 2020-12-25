@@ -6,9 +6,9 @@
 
 !=  (not equal to)
 
- < (less than.)
+(<) (less than.)
 
-> (greater than
+(>) (greater than
 
 ## Loop
 
