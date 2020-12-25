@@ -8,4 +8,5 @@
 | Read 4 |  [Read4](https://boodah96.github.io/reading-notes/read4)|
 | Read 6 a |  [Read 6 a](https://boodah96.github.io/reading-notes/read6a)|
 | Read 6 b |  [Read 6 b](https://boodah96.github.io/reading-notes/read6b)|
-| Read7    |  [Read 7](https://boodah96.github.io/reading-notes/read7)|
+| Read 7   |  [Read 7](https://boodah96.github.io/reading-notes/read7)|
+| Read 8   |  [Read 8](https://boodah96.github.io/reading-notes/read8)|
