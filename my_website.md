@@ -3,7 +3,7 @@
 ## Table of content:
 | Page | Link |
 |------------ | -------------|
-| Growth mindset | [Growth mindset](https://boodah96.github.io/reading-notes/) |
+| Growth mindset | [Growth mindset](https://boodah96.github.io/reading-notes/README1) |
 | Read 1 |  [Read 1](https://boodah96.github.io/reading-notes/read_1)|
 | Read 4 |  [Read 4](https://boodah96.github.io/reading-notes/read4)|
 | Read 5 |  [Read 5](https://boodah96.github.io/reading-notes/read5)|
