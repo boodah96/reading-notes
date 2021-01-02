@@ -16,5 +16,5 @@
 
 > ## *Code 201 Reading Notes*
 Page    |    Link
------------- | -------------
-Read 1 |  Link
+---- | ----
+Read 1 |  [HTML & introduction to JS](https://boodah96.github.io/reading-notes/class-01)|
