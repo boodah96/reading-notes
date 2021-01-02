@@ -54,7 +54,7 @@ humans, so your instructions must let the computer
 solve the task prggrammatically.
 * To approach writing a script, break down your goal into
 a series of tasks and then work out each step needed
-to complete that task .
+to complete that task..
 
 
 ## B : How do computers fit in with the worl around them ?
