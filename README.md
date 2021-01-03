@@ -1,7 +1,11 @@
 # **Abdalrhman Albdahat**
 ### My name is Abdalrhman Albdahat, I am a Civil Engineer and I am here to learn coding
 ## Table of content :>
-
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 > ## *Code 102 Reading Notes*
 | Page           | Link |
 |----------------|----------------|
