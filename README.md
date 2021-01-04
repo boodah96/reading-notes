@@ -46,4 +46,4 @@
 | Page   | Link                                                                           |
 |--------|--------------------------------------------------------------------------------|
 | Read 1 | [HTML & introduction to JS](https://boodah96.github.io/reading-notes/class-01) |
-| Read   | [Basics of HTML, CSS & JS](https://boodah96.github.io/reading-notes/class-02)  |
+| Read 2  | [Basics of HTML, CSS & JS](https://boodah96.github.io/reading-notes/class-02) |
