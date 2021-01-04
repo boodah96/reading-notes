@@ -20,13 +20,8 @@
 
 ### This is my [GitHub Page](https://github.com/boodah96)
 
-## Table of content :>
+## Table of content :
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
 
 > ## *Code 102 Reading Notes*
 
@@ -46,4 +41,4 @@
 | Page   | Link                                                                           |
 |--------|--------------------------------------------------------------------------------|
 | Read 1 | [HTML & introduction to JS](https://boodah96.github.io/reading-notes/class-01) |
-| Read 2  | [Basics of HTML, CSS & JS](https://boodah96.github.io/reading-notes/class-02) |
+| Read 2 | [Basics of HTML, CSS & JS](https://boodah96.github.io/reading-notes/class-02)  |
