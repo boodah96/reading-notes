@@ -45,5 +45,5 @@
 | Read 3 | [HTML Lists, Control Flow with JS, and the CSS Box Model](https://boodah96.github.io/reading-notes/class-03)  |
 | Read 4 | [HTML Links, CSS Layout, JS Functions](https://boodah96.github.io/reading-notes/class-04)  |
 | Read 5 | [HTML Images; CSS Color & Text](https://boodah96.github.io/reading-notes/class-05)  |
-
+| Read 6 | [Problem Domain, Objects, and the DOM](https://boodah96.github.io/reading-notes/class-06)  |
 
