@@ -47,4 +47,4 @@
 | Read 5 | [HTML Images; CSS Color & Text](https://boodah96.github.io/reading-notes/class-05)  |
 | Read 6 | [Problem Domain, Objects, and the DOM](https://boodah96.github.io/reading-notes/class-06)  |
 | Read 7 | [Object-Oriented Programming, HTML Tables](https://boodah96.github.io/reading-notes/class-07)  |
-
+| Read 8 | [CSS Layout](https://boodah96.github.io/reading-notes/class-08)  |
