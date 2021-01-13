@@ -49,3 +49,4 @@
 | Read 7 | [Object-Oriented Programming, HTML Tables](https://boodah96.github.io/reading-notes/class-07)  |
 | Read 8 | [CSS Layout](https://boodah96.github.io/reading-notes/class-08)  |
 | Read 9 | [Forms and JS Events](https://boodah96.github.io/reading-notes/class-09)  |
+| Read 10 | [Forms and JS Events](https://boodah96.github.io/reading-notes/class-10)  |
