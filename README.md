@@ -50,3 +50,4 @@
 | Read 8 | [CSS Layout](https://boodah96.github.io/reading-notes/class-08)  |
 | Read 9 | [Forms and JS Events](https://boodah96.github.io/reading-notes/class-09)  |
 | Read 10 | [Error Handling & Debugging](https://boodah96.github.io/reading-notes/class-10)  |
+| Read 11 | [Audio, Video, Images](https://boodah96.github.io/reading-notes/class-11)  |
