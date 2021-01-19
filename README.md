@@ -52,4 +52,6 @@
 | Read 10 | [Error Handling & Debugging](https://boodah96.github.io/reading-notes/class-10)  |
 | Read 11 | [Audio, Video, Images](https://boodah96.github.io/reading-notes/class-11)  |
 | Read 12 | [Chart.js, Canvas](https://boodah96.github.io/reading-notes/class-12)  |
+| Read 13 | [ HTML5 STORAGE](https://boodah96.github.io/reading-notes/class-13)  |
+
 
