@@ -11,7 +11,7 @@
 ## Table of content :
 
 
-> ## *Code 102 Reading Notes*
+> ## *Code 102 - Intro to Software Development*
 
 | Page           | Link                                                               |
 |----------------|----------------|
@@ -24,7 +24,7 @@
 | Read 7         |  [Read 7](https://boodah96.github.io/reading-notes/read7)|
 | Read 8         |  [Read 8](https://boodah96.github.io/reading-notes/read8)|
 
-> ## *Code 201 Reading Notes*
+> ## *Code 201 - Foundations of Software Development*
 
 | Page   | Link                                                                           |
 |--------|--------------------------------------------------------------------------------|
@@ -42,7 +42,10 @@
 | Read 12 | [Chart.js, Canvas](https://boodah96.github.io/reading-notes/class-12)  |
 | Read 13 | [ HTML5 STORAGE](https://boodah96.github.io/reading-notes/class-13)  |
 
-> ## *Code 301 Reading Notes*
+> ## *Code 301 - Intermediate Software Development*
 | Page   | Link                                                                           |
 |--------|--------------------------------------------------------------------------------|
 | Read 1 | |
+
+
+> ## *Code 401 - Advanced Software Development*
