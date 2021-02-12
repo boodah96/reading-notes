@@ -1,20 +1,8 @@
 # **Abdalrhman Albdahat**
 
-### My name is Abdalrhman Albdahat, I am a Civil Engineer and I am here to learn coding
+## My name is Abdalrhman Albdahat, I am a Civil Engineer and I am here to learn coding
 
-# growth mindset
 
-## when we talk about mindset we talk about exit from comfort zone and work hard to improve your mind
-
-**that mean no pain no gain**
-
- *how to keep yourself in a growth mindse* 
-
-* Stop seeking approval
-* Cultivate a sense of purpose
-* Place effort before talent
-
-:+1: :+1: :+1:
 
 ### I am Abdalrhman Albdahat and I am here to learn coding
 
@@ -54,4 +42,7 @@
 | Read 12 | [Chart.js, Canvas](https://boodah96.github.io/reading-notes/class-12)  |
 | Read 13 | [ HTML5 STORAGE](https://boodah96.github.io/reading-notes/class-13)  |
 
-
+> ## *Code 301 Reading Notes*
+| Page   | Link                                                                           |
+|--------|--------------------------------------------------------------------------------|
+| Read 1 | |
