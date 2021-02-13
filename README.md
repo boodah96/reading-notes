@@ -45,7 +45,7 @@
 > ## *Code 301 - Intermediate Software Development*
 | Page   | Link                                                                           |
 |--------|--------------------------------------------------------------------------------|
-| Read 1 | |
+| Read 1 | [RESPONSIVE WEB DESIGN and FLOATS](https://boodah96.github.io/reading-notes/read-01) |
 
 
 > ## *Code 401 - Advanced Software Development*
