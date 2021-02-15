@@ -43,9 +43,9 @@
 | Read 13 | [ HTML5 STORAGE](https://boodah96.github.io/reading-notes/class-13)  |
 
 > ## *Code 301 - Intermediate Software Development*
-| Page   | Link                                                                           |
-|--------|--------------------------------------------------------------------------------|
+| Page   | Link                                                                                 |
+|--------|--------------------------------------------------------------------------------------|
 | Read 1 | [RESPONSIVE WEB DESIGN and FLOATS](https://boodah96.github.io/reading-notes/read-01) |
-
+| Read 2  | [PAIR PROGRAMMING](https://boodah96.github.io/reading-notes/read-02)                |
 
 > ## *Code 401 - Advanced Software Development*
