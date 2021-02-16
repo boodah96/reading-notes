@@ -46,6 +46,7 @@
 | Page   | Link                                                                                 |
 |--------|--------------------------------------------------------------------------------------|
 | Read 1 | [RESPONSIVE WEB DESIGN and FLOATS](https://boodah96.github.io/reading-notes/read-01) |
-| Read 2  | [PAIR PROGRAMMING](https://boodah96.github.io/reading-notes/read-02)                |
+| Read 2 | [ jQuery, Events, and The DOM](https://boodah96.github.io/reading-notes/read-02)     |
+| Read  | [Flexbox and Templating](https://boodah96.github.io/reading-notes/read-03)            |
 
 > ## *Code 401 - Advanced Software Development*
