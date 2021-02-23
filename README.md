@@ -51,5 +51,7 @@
 | Read 4 | [CSS GRID](https://boodah96.github.io/reading-notes/read-04)                         |
 | Read 5 | [Heroku Deployment](https://boodah96.github.io/reading-notes/read-05)                |
 | Read 6 | [Node, Express, and APIs](https://boodah96.github.io/reading-notes/read-06)          |
+| Read 7 | [APIs continued](https://boodah96.github.io/reading-notes/read-07)                   |
+| Read 8 | [SQL           ](https://boodah96.github.io/reading-notes/read-08)                   |
 
 > ## *Code 401 - Advanced Software Development*
