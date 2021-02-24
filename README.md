@@ -44,7 +44,7 @@
 
 > ## *Code 301 - Intermediate Software Development*
 | Page   | Link                                                                                 |
-|--------|--------------------------------------------------------------------------------------|
+|--------| -------------------------------------------------------------------------------------|
 | Read 1 | [RESPONSIVE WEB DESIGN and FLOATS](https://boodah96.github.io/reading-notes/read-01) |
 | Read 2 | [ jQuery, Events, and The DOM](https://boodah96.github.io/reading-notes/read-02)     |
 | Read 3 | [Flexbox and Templating](https://boodah96.github.io/reading-notes/read-03)           |
@@ -53,5 +53,5 @@
 | Read 6 | [Node, Express, and APIs](https://boodah96.github.io/reading-notes/read-06)          |
 | Read 7 | [APIs continued](https://boodah96.github.io/reading-notes/read-07)                   |
 | Read 8 | [SQL           ](https://boodah96.github.io/reading-notes/read-08)                   |
-
+| Read 8 | [Refactoring   ](https://boodah96.github.io/reading-notes/read-09)                   |
 > ## *Code 401 - Advanced Software Development*
