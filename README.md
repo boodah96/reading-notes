@@ -53,5 +53,7 @@
 | Read 6 | [Node, Express, and APIs](https://boodah96.github.io/reading-notes/read-06)          |
 | Read 7 | [APIs continued](https://boodah96.github.io/reading-notes/read-07)                   |
 | Read 8 | [SQL           ](https://boodah96.github.io/reading-notes/read-08)                   |
-| Read 8 | [Refactoring   ](https://boodah96.github.io/reading-notes/read-09)                   |
-> ## *Code 401 - Advanced Software Development*
+| Read 9 | [Refactoring   ](https://boodah96.github.io/reading-notes/read-09)                   |
+| Read 10| [The Call Stack](https://boodah96.github.io/reading-notes/read-10)                   |
+
+ ## *Code 401 - Advanced Software Development*
