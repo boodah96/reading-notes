@@ -55,5 +55,6 @@
 | Read 8 | [SQL           ](https://boodah96.github.io/reading-notes/read-08)                   |
 | Read 9 | [Refactoring   ](https://boodah96.github.io/reading-notes/read-09)                   |
 | Read 10| [The Call Stack](https://boodah96.github.io/reading-notes/read-10)                   |
+| Read 11| [EJS           ](https://boodah96.github.io/reading-notes/read-11)                   |
 
  ## *Code 401 - Advanced Software Development*
