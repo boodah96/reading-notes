@@ -60,6 +60,6 @@
 | Read 13| [Update & Delete  ](https://boodah96.github.io/reading-notes/read-13)                |
 
  ## *Code 401 - Advanced Software Development*
- | Page   | Link                                                                           |
-|--------|--------------------------------------------------------------------------------|
-| Read 1 | []() |
+| Page    |  Link                                                                          |
+| ------- |--------------------------------------------------------------------------------|
+| Read 2| [Express](https://boodah96.github.io/reading-notes/Read2) |
