@@ -60,7 +60,8 @@
 | Read 13| [Update & Delete  ](https://boodah96.github.io/reading-notes/read-13)                |
 
  ## *Code 401 - Advanced Software Development*
-| Page    |  Link             Express REST API                                                             |
+| Page    |  Link             Express REST API                                             |
 | ------- |--------------------------------------------------------------------------------|
+| Read 1| [Express](https://boodah96.github.io/reading-notes/Read1)                        |
 | Read 2| [Express](https://boodah96.github.io/reading-notes/Read2)                        |
 | Read 3| [Express REST API](https://boodah96.github.io/reading-notes/Read3)               |
