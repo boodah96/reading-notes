@@ -66,3 +66,5 @@
 | Read 2  | [Express](https://boodah96.github.io/reading-notes/Read2)                      |
 | Read 3  | [Express REST API](https://boodah96.github.io/reading-notes/Read3)             |
 | Read 4  | [Data Modeling](https://boodah96.github.io/reading-notes/text4)                |
+| Read 5  | [Linked Lists](https://boodah96.github.io/reading-notes/text5)                 |
+| Read 6  | [Authentication](https://boodah96.github.io/reading-notes/text6)               |
