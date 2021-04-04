@@ -68,3 +68,4 @@
 | Read 4  | [Data Modeling](https://boodah96.github.io/reading-notes/text4)                |
 | Read 5  | [Linked Lists](https://boodah96.github.io/reading-notes/text5)                 |
 | Read 6  | [Authentication](https://boodah96.github.io/reading-notes/text6)               |
+| Read 7  | [Bearer Authorization](https://boodah96.github.io/reading-notes/text7)         |
