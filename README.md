@@ -73,3 +73,4 @@
 | Read 9  | [class 09](https://boodah96.github.io/reading-notes/text9)                     |
 | Read 10 | [Stacks and Queues](https://boodah96.github.io/reading-notes/text10)           |
 | Read 11 | [ Event Driven Applications](https://boodah96.github.io/reading-notes/text11)  |
+| Read 12 | [ Socket.io](https://boodah96.github.io/reading-notes/text12)                  |
