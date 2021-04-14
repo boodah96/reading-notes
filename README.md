@@ -75,3 +75,5 @@
 | Read 11 | [ Event Driven Applications](https://boodah96.github.io/reading-notes/text11)  |
 | Read 12 | [ Socket.io](https://boodah96.github.io/reading-notes/text12)                  |
 | Read 13 | [ Message Queues](https://boodah96.github.io/reading-notes/text13)             |
+| Read 14 | [ Trees](https://boodah96.github.io/reading-notes/text14)                      |
+  
