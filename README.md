@@ -77,4 +77,5 @@
 | Read 13 | [ Message Queues](https://boodah96.github.io/reading-notes/text13)             |
 | Read 14 | [ Trees](https://boodah96.github.io/reading-notes/text14)                      |
 | Read 16 | [ AWS: Cloud Servers](https://boodah96.github.io/reading-notes/text16)         |
+| Read 17 | [ AWS: S3 and Lambda](https://boodah96.github.io/reading-notes/text17)         |
   
