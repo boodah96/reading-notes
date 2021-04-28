@@ -79,5 +79,6 @@
 | Read 16 | [ AWS: Cloud Servers](https://boodah96.github.io/reading-notes/text16)         |
 | Read 17 | [ AWS: S3 and Lambda](https://boodah96.github.io/reading-notes/text17)         |
 | Read 18 | [ AWS: API, Dynamo, and Lambda](https://boodah96.github.io/reading-notes/text18)|
-| Read 18 | [  AWS: Events](https://boodah96.github.io/reading-notes/text19)|
+| Read 19 | [  AWS: Events](https://boodah96.github.io/reading-notes/text19)|
+| Read 26 | [  Component Based UI](https://boodah96.github.io/reading-notes/text26)|
   
