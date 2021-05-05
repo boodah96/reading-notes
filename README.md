@@ -83,4 +83,5 @@
 | Read 26 | [  Component Based UI](https://boodah96.github.io/reading-notes/text26)|
 | Read 27 | [  Props and State](https://boodah96.github.io/reading-notes/text27)|
 | Read 28 | [  Component Composition](https://boodah96.github.io/reading-notes/text28)|
+| Read 29 | [  Routing](https://boodah96.github.io/reading-notes/text29)|
   
