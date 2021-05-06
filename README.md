@@ -84,4 +84,5 @@
 | Read 27 | [  Props and State](https://boodah96.github.io/reading-notes/text27)|
 | Read 28 | [  Component Composition](https://boodah96.github.io/reading-notes/text28)|
 | Read 29 | [  Routing](https://boodah96.github.io/reading-notes/text29)|
+| Read 30 | [  Hash Tables](https://boodah96.github.io/reading-notes/text30)|
   
