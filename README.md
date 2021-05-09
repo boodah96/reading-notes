@@ -85,4 +85,5 @@
 | Read 28 | [  Component Composition](https://boodah96.github.io/reading-notes/text28)|
 | Read 29 | [  Routing](https://boodah96.github.io/reading-notes/text29)|
 | Read 30 | [  Hash Tables](https://boodah96.github.io/reading-notes/text30)|
+| Read 31 | [  Hooks API ](https://boodah96.github.io/reading-notes/text31)|
   
