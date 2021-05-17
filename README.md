@@ -87,4 +87,5 @@
 | Read 30 | [  Hash Tables](https://boodah96.github.io/reading-notes/text30)|
 | Read 31 | [  Hooks API ](https://boodah96.github.io/reading-notes/text31)|
 | Read 32 | [  Custom Hooks ](https://boodah96.github.io/reading-notes/text32)|
+| Read 33 | [  Context API ](https://boodah96.github.io/reading-notes/text33)|
   
