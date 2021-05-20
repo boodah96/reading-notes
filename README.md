@@ -88,5 +88,6 @@
 | Read 31 | [  Hooks API ](https://boodah96.github.io/reading-notes/text31)|
 | Read 32 | [  Custom Hooks ](https://boodah96.github.io/reading-notes/text32)|
 | Read 33 | [  Context API ](https://boodah96.github.io/reading-notes/text33)|
-| Read 34 | [  Context API ](https://boodah96.github.io/reading-notes/text34)|
+| Read 34 | [  login &Auth ](https://boodah96.github.io/reading-notes/text34)|
+| Read 35 | [  Graphs ](https://boodah96.github.io/reading-notes/text35)|
   
