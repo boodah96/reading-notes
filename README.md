@@ -91,4 +91,5 @@
 | Read 34 | [  login &Auth ](https://boodah96.github.io/reading-notes/text34)|
 | Read 35 | [  Graphs ](https://boodah96.github.io/reading-notes/text35)|
 | Read 36 | [   Application State with Redux ](https://boodah96.github.io/reading-notes/text36)|
+| Read 37 | [   Redux - Combined Reducers ](https://boodah96.github.io/reading-notes/text37)|
   
