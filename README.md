@@ -92,4 +92,6 @@
 | Read 35 | [  Graphs ](https://boodah96.github.io/reading-notes/text35)|
 | Read 36 | [   Application State with Redux ](https://boodah96.github.io/reading-notes/text36)|
 | Read 37 | [   Redux - Combined Reducers ](https://boodah96.github.io/reading-notes/text37)|
+| Read 38 | [  Redux - Asynchronous Actions ](https://boodah96.github.io/reading-notes/text38)|
+| Read 39 | [  Redux - Additional Topics ](https://boodah96.github.io/reading-notes/text39)|
   
